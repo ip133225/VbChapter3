@@ -1,0 +1,3 @@
+﻿------ Build started: Project: Miles per Gallon, Configuration: Debug Any CPU ------
+  Miles per Gallon -> C:\Users\ip133225\AppData\Local\Temporary Projects\Miles per Gallon\bin\Debug\Miles per Gallon.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
